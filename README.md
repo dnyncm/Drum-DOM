@@ -1,2 +1,2 @@
 # Drum-DOM
-click to press the keyboard character to play the drum sounds.
+click or press the keyboard character to play the drum sounds.
